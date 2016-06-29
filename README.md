@@ -10,3 +10,4 @@ Repository dedicated to providing JavaScript equivalents of Haskell examples fro
 
 * [BMI](examples/BMI.md)
 * [QuickSort](examples/QUICKSORT.md)
+* [Binary Tree](examples/BinaryTree.md)
